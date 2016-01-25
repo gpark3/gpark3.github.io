@@ -42,13 +42,13 @@ body {
 }
 
 .btn-main {
-  background-color: #790b02;
+  background-color: #337ab7;
   color:white;
   margin: 1em;
 }
 
 .btn-main:hover {
-  background-color: #3f0601;
+  background-color: #0c4678;
   text-decoration: none !important;
 }
 
@@ -68,6 +68,14 @@ body {
   margin: 1%;
 }
 
+.me-img {
+  float:left;
+  margin-right: 10%;
+}
+
+.about {
+  padding: 0% 3%;
+}
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
